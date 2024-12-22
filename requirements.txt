@@ -1,0 +1,6 @@
+groq
+langchain
+faiss-cpu
+PyPDF2
+pdfplumber
+dotenv
